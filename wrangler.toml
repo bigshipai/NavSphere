@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23li5kQn3bHkigZMqP"
 GITHUB_OWNER = "bigshipai"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere-5lg.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-5lg.pages.dev"
+NEXTAUTH_URL = "https://aicodertribe.com/api/auth"
+NEXT_PUBLIC_API_URL="https://aicodertribe.com"
 
